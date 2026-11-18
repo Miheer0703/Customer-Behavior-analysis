@@ -107,5 +107,4 @@ customer-shopping-behavior-analysis/
 **Miheer**
 - GitHub: [Miheer0703](https://github.com/Miheer0703)
 - LinkedIn: [www.linkedin.com/in/miheer-sawant]
-
 ⭐ *If you found this project useful, consider giving it a star!*
