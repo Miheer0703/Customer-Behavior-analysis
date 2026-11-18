@@ -34,7 +34,7 @@ End-to-end data analytics project analysing **3,900 retail purchases** to uncove
 - Renamed columns to **snake_case**
 - Added new features: `age_group` (binned ages) and `purchase_frequency_days`
 - Dropped `promo_code_used`, which duplicated `discount_applied`
-- Loaded the cleaned data into **PostgreSQL**
+- Loaded the cleaned data into **MySQL**
 
 ### 2️⃣ Business Analysis in SQL
 Answered 10 business questions:
